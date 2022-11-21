@@ -29,6 +29,28 @@ blank에서 halt하면 aceept한거
 
 Transducer의 튜링머신  
 
+# 11장  
+recursive grammer  
+
+# 13장 - 안나옴  
+
+# 14장 - 알고리즘 주제임  
+complexity 이론: 공간 vs 시간 복잡도  
+worst case & average case의 Big-O에 속지마라. 퀵소트가 젤 빠름  
+
+CYK 알고리즘 복잡도: n^3 (외우자)  
+컴파일러: n  
+Conjunctive normal form 만족성 문제: 2^n  
+
+DTIME(T(n)): deterministic time  
+NTIME  
+
+classes of NP  
+NP-complete  
+polynomial time?  
+
+
+
 
 
 
